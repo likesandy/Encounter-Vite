@@ -13,4 +13,5 @@
 - [03-Vite的安装](md/03-Vite的安装.md)
 ## 代码目录
 
-- [01-Vie的基本使用](code/01-Vie的基本使用)
+- [01-ES Module的使用](code/01-ESModule的使用)
+- [02-Vite的基本使用](code/02-Vite的基本使用)
