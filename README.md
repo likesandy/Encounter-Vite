@@ -11,7 +11,9 @@
 - [01-Vite的历史](md/01-Vite的历史.md)
 - [02-浏览器原生支持模块化](md/02-浏览器原生支持模块化.md)
 - [03-Vite的安装](md/03-Vite的安装.md)
+- [04-Vite处理CSS](md/04-Vite处理CSS.md)
 ## 代码目录
 
 - [01-ES-Module的使用](code/01-ES-Module的使用)
 - [02-Vite的基本使用](code/02-Vite的基本使用)
+- [03-Vite处理CSS](code/03-Vite处理CSS)
