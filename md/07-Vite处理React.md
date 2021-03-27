@@ -13,7 +13,6 @@ npm i react react-dom
 ![image.png](https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f956833a7954a3ea545190da875830f~tplv-k3u1fbpfcp-watermark.image)
 
   + 是因为它是支持jsx的语法
-  + 这段代码是jsx的语法ReactDOM.render(<ReactApp/>,document.getElementById('root'));
   + 所以代码是没有任何问题的
   + 但是这里报错是因为我们这个文件是js的文件
   + js的文件里是不能写jsx的语法的

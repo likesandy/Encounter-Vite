@@ -4,7 +4,7 @@
 
 # Vite处理Less
 
-![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6aae430f72094b08a3f48cd67f3e7bc1~tplv-k3u1fbpfcp-watermark.image)
+  ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6aae430f72094b08a3f48cd67f3e7bc1~tplv-k3u1fbpfcp-watermark.image)
 
 - 这里报错是因为我们要使用Less,要有Less这个工具,这里安装一下Less
 
