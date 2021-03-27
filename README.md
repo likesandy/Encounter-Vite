@@ -13,9 +13,11 @@
 - [03-Vite的安装](md/03-Vite的安装.md)
 - [04-Vite处理CSS](md/04-Vite处理CSS.md)
 - [05-Vite处理TypeScript](md/05-Vite处理TypeScript.md)
+- [06-Vite处理文件和Vue](md/06-Vite处理文件和Vue.md)
 ## 代码目录
 
 - [01-ES-Module的使用](code/01-ES-Module的使用)
 - [02-Vite的基本使用](code/02-Vite的基本使用)
 - [03-Vite处理CSS](code/03-Vite处理CSS)
 - [04-Vite处理Ts](code/04-Vite处理Ts)
+- [05-Vite处理文件和Vue](code/05-Vite处理文件和Vue)
