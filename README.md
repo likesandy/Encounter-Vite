@@ -17,5 +17,3 @@
 * [Vite处理React](md/07-Vite处理React.md)
 * [ESBuild解析](md/08-ESBuild解析.md)
 * [Vite的项目开发](md/09-Vite的项目开发.md)
-
-[▲ 回到顶部](#top)
